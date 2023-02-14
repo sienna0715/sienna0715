@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white" />
   
-  <h3>🐧 Record 🐧</h3>
-  <a href="https://blog.naver.com/5609373">
+  <h3>🎧 Record ⛄️</h3>
+  <a href="https://blog.naver.com/seven_day_five">
   	<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
   </a>
 </div>
