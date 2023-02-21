@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white" /> <br />
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
   
   <h3>🎧 Record ⛄️</h3>
   <a href="https://blog.naver.com/seven_day_five">
