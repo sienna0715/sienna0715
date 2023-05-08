@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
   
   <h3>🎧 Record ⛄️</h3>
+  <a href="https://velog.io/@sion8120">
+  	<img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
+  </a>
   <a href="https://blog.naver.com/seven_day_five">
   	<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
   </a>
