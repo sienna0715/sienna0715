@@ -16,7 +16,4 @@
   <a href="https://seven-day-five.tistory.com/">
   	<img src="https://img.shields.io/badge/Tech-Blog-000000?style=flat&logo=Tistory&logoColor=white" />
   </a>
-  <a href="https://blog.naver.com/seven_day_five">
-  	<img src="https://img.shields.io/badge/Diary-Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
-  </a>
 </div>
