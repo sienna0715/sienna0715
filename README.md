@@ -11,9 +11,4 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white" />
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-  
-  <h3>🎧 Record ⛄️</h3>
-  <a href="https://seven-day-five.tistory.com/">
-  	<img src="https://img.shields.io/badge/Tech-Blog-000000?style=flat&logo=Tistory&logoColor=white" />
-  </a>
 </div>
