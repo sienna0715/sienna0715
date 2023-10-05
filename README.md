@@ -1,8 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SionLee's&fontSize=90" />
-	
- ![Sion's github stats](https://github-readme-stats.vercel.app/api?username=sienna0715&show_icons=true&theme=tokyonight)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna0715&layout=compact&theme=tokyonight" width="355" />
+
+I’m a front-end developer who lives in South Korea🇰🇷.
+<br />
+I love designing complex and highly performant user interfaces ⚡ using modern tools like React.
+<br /><br />
+
+![Sion's github stats](https://github-readme-stats.vercel.app/api?username=sienna0715&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna0715&layout=compact&theme=tokyonight" width="355" />
+
 <!--
    <h3>📚 Tech Stack 📚</h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
