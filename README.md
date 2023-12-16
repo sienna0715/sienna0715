@@ -1,20 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Sienna&fontSize=90" />
  
-<h4>
+<h3>
 I’m a front-end developer who lives in South Korea🇰🇷.
 <br />
 I love designing complex and highly performant user interfaces ⚡ using modern tools like React.
-</h4>
-
-<br />
+<br /><br />
 
 +++
+</h3>
 
 <br />
 
-![Sienna's github stats](https://github-readme-stats.vercel.app/api?username=sienna0715&show_icons=true&theme=nord)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna0715&layout=compact&theme=nord" width="355" />
+![Sienna's github stats](https://github-readme-stats.vercel.app/api?username=sienna0715&show_icons=true&theme=swift)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna0715&layout=compact&theme=swift" width="355" />
 
 <!--
    <h3>📚 Tech Stack 📚</h3>
