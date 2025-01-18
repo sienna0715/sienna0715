@@ -4,7 +4,8 @@
 <h3>
 I’m a front-end developer who lives in South Korea🇰🇷.
 <br />
-I love designing complex and highly performant user interfaces ⚡ using modern tools like React.
+I love designing complex and highly performant user interfaces ⚡ <br />
+using modern tools like React.
 <br /><br />
 
 +++
